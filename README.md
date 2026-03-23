@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Szymon 👋
 
-<!--
-**gnu-szymon/gnu-szymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd year CS student • 🐧 Linux Enthusiast • 📡 Ethernet cable juggler  
+Currently looking for summer internship.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack:
+- **Systems:** Linux (Ubuntu Server)
+- **Networking**: TCP/IP, VLANs, SSH, routing/switching
+- **Scripting:** Bash, Python (basic)
+- **Tools:** Git, Wireshark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Currently Learning:
+- Automation & Scripting
+- Linux Troubleshooting
+
+## 🎯 Up Next:
+- Containers (Docker)
+- Cloud basics
+
+## 📬 Contact:
+- Email: laskowskiszymondev [at] gmail [dot] com  
+- GitHub: https://github.com/gnu-szymon  
+- LinkedIn: https://www.linkedin.com/in/laskowski-szymon/
