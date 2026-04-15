@@ -4,10 +4,11 @@
 Currently looking for summer internship.
 
 ## 💻 Tech Stack:
-- **Systems:** Linux (Ubuntu Server)
+- **Systems:** Linux (Ubuntu Server), Windows Server (basics)
 - **Networking**: TCP/IP, VLANs, SSH, routing/switching
-- **Scripting:** Bash, Python (basic)
+- **Scripting:** Bash, Python
 - **Tools:** Git, Wireshark
+- **Databases:** SQL
 
 ## 📖 Currently Learning:
 - Automation & Scripting
